@@ -3,7 +3,7 @@
 	<output-test url="file://$MODULE_DIR$/../out/test/google-play-services_lib"/>
 	<exclude-output/>
 	<contentEntry url="file://$MODULE_DIR$"/>
-	<lib name="$MODULE_DIR$/libs/google-play-services.jar" scope="COMPILE">
+	<lib name="google-play-services.jar" scope="COMPILE">
 		<relative-module-cls project-related="jar://$PROJECT_DIR$/google-play-services_lib/libs/google-play-services.jar!/"/>
 	</lib>
 </component>
